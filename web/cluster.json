@@ -1,0 +1,871 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "AMLP"
+        },
+        {
+            "id": "AMZA"
+        },
+        {
+            "id": "IMLP"
+        },
+        {
+            "id": "MLPC"
+        },
+        {
+            "id": "MLPX"
+        },
+        {
+            "id": "MLPY"
+        },
+        {
+            "id": "BOIL"
+        },
+        {
+            "id": "UGAZ"
+        },
+        {
+            "id": "UNG"
+        },
+        {
+            "id": "CAFE"
+        },
+        {
+            "id": "JO"
+        },
+        {
+            "id": "CGW"
+        },
+        {
+            "id": "FAN"
+        },
+        {
+            "id": "FIW"
+        },
+        {
+            "id": "IYK"
+        },
+        {
+            "id": "PBD"
+        },
+        {
+            "id": "PHO"
+        },
+        {
+            "id": "PIO"
+        },
+        {
+            "id": "PZD"
+        },
+        {
+            "id": "WOOD"
+        },
+        {
+            "id": "CLY"
+        },
+        {
+            "id": "CORP"
+        },
+        {
+            "id": "COP"
+        },
+        {
+            "id": "FRAK"
+        },
+        {
+            "id": "GASL"
+        },
+        {
+            "id": "IEO"
+        },
+        {
+            "id": "IXC"
+        },
+        {
+            "id": "RYE"
+        },
+        {
+            "id": "XOP"
+        },
+        {
+            "id": "CORN"
+        },
+        {
+            "id": "JJG"
+        },
+        {
+            "id": "DGAZ"
+        },
+        {
+            "id": "KOLD"
+        },
+        {
+            "id": "DGLD"
+        },
+        {
+            "id": "DGZ"
+        },
+        {
+            "id": "DSLV"
+        },
+        {
+            "id": "DZZ"
+        },
+        {
+            "id": "GLL"
+        },
+        {
+            "id": "JDST"
+        },
+        {
+            "id": "ZSL"
+        },
+        {
+            "id": "DGP"
+        },
+        {
+            "id": "GLD"
+        },
+        {
+            "id": "UGL"
+        },
+        {
+            "id": "UGLD"
+        },
+        {
+            "id": "DNO"
+        },
+        {
+            "id": "DTO"
+        },
+        {
+            "id": "SCO"
+        },
+        {
+            "id": "USO"
+        },
+        {
+            "id": "FXG"
+        },
+        {
+            "id": "PBJ"
+        },
+        {
+            "id": "GEX"
+        },
+        {
+            "id": "ICLN"
+        },
+        {
+            "id": "PBW"
+        },
+        {
+            "id": "QCLN"
+        },
+        {
+            "id": "TAN"
+        },
+        {
+            "id": "JNUG"
+        },
+        {
+            "id": "SLV"
+        },
+        {
+            "id": "USLV"
+        },
+        {
+            "id": "MLPG"
+        },
+        {
+            "id": "YMLP"
+        },
+        {
+            "id": "XOM"
+        },
+        {
+            "id": "SOYB"
+        },
+        {
+            "id": "WEAT"
+        },
+        {
+            "id": "OIL"
+        },
+        {
+            "id": "UCO"
+        },
+        {
+            "id": "SLVO"
+        },
+        {
+            "id": "TVIX"
+        },
+        {
+            "id": "TVIZ"
+        },
+        {
+            "id": "UVXY"
+        }
+    ],
+    "links": [
+        {
+            "weight": "0.0313",
+            "source": "AMLP",
+            "target": "AMZA"
+        },
+        {
+            "weight": "0.0308",
+            "source": "AMLP",
+            "target": "IMLP"
+        },
+        {
+            "weight": "0.0374",
+            "source": "AMLP",
+            "target": "MLPC"
+        },
+        {
+            "weight": "0.0336",
+            "source": "AMLP",
+            "target": "MLPX"
+        },
+        {
+            "weight": "0.0433",
+            "source": "AMLP",
+            "target": "MLPY"
+        },
+        {
+            "weight": "0.0332",
+            "source": "AMZA",
+            "target": "IMLP"
+        },
+        {
+            "weight": "0.0386",
+            "source": "AMZA",
+            "target": "MLPC"
+        },
+        {
+            "weight": "0.0344",
+            "source": "AMZA",
+            "target": "MLPX"
+        },
+        {
+            "weight": "0.0454",
+            "source": "AMZA",
+            "target": "MLPY"
+        },
+        {
+            "weight": "0.0343",
+            "source": "IMLP",
+            "target": "MLPC"
+        },
+        {
+            "weight": "0.0463",
+            "source": "IMLP",
+            "target": "MLPG"
+        },
+        {
+            "weight": "0.0337",
+            "source": "IMLP",
+            "target": "MLPX"
+        },
+        {
+            "weight": "0.0436",
+            "source": "IMLP",
+            "target": "MLPY"
+        },
+        {
+            "weight": "0.0457",
+            "source": "IMLP",
+            "target": "YMLP"
+        },
+        {
+            "weight": "0.0456",
+            "source": "MLPC",
+            "target": "MLPG"
+        },
+        {
+            "weight": "0.0395",
+            "source": "MLPC",
+            "target": "MLPX"
+        },
+        {
+            "weight": "0.0462",
+            "source": "MLPC",
+            "target": "YMLP"
+        },
+        {
+            "weight": "0.0445",
+            "source": "MLPX",
+            "target": "FRAK"
+        },
+        {
+            "weight": "0.0418",
+            "source": "MLPX",
+            "target": "IEO"
+        },
+        {
+            "weight": "0.0416",
+            "source": "MLPX",
+            "target": "IXC"
+        },
+        {
+            "weight": "0.0446",
+            "source": "MLPX",
+            "target": "MLPY"
+        },
+        {
+            "weight": "0.0391",
+            "source": "MLPX",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0446",
+            "source": "MLPX",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0434",
+            "source": "MLPX",
+            "target": "YMLP"
+        },
+        {
+            "weight": "0.0449",
+            "source": "MLPY",
+            "target": "YMLP"
+        },
+        {
+            "weight": "0.0082",
+            "source": "BOIL",
+            "target": "UGAZ"
+        },
+        {
+            "weight": "0.0092",
+            "source": "BOIL",
+            "target": "UNG"
+        },
+        {
+            "weight": "0.0071",
+            "source": "UGAZ",
+            "target": "UNG"
+        },
+        {
+            "weight": "0.0399",
+            "source": "CAFE",
+            "target": "JO"
+        },
+        {
+            "weight": "0.0444",
+            "source": "CGW",
+            "target": "FAN"
+        },
+        {
+            "weight": "0.0416",
+            "source": "CGW",
+            "target": "FIW"
+        },
+        {
+            "weight": "0.0463",
+            "source": "CGW",
+            "target": "IYK"
+        },
+        {
+            "weight": "0.0444",
+            "source": "CGW",
+            "target": "PBD"
+        },
+        {
+            "weight": "0.0409",
+            "source": "CGW",
+            "target": "PHO"
+        },
+        {
+            "weight": "0.0354",
+            "source": "CGW",
+            "target": "PIO"
+        },
+        {
+            "weight": "0.0434",
+            "source": "CGW",
+            "target": "PZD"
+        },
+        {
+            "weight": "0.0463",
+            "source": "CGW",
+            "target": "WOOD"
+        },
+        {
+            "weight": "0.0457",
+            "source": "FAN",
+            "target": "PBD"
+        },
+        {
+            "weight": "0.0301",
+            "source": "FIW",
+            "target": "PHO"
+        },
+        {
+            "weight": "0.0467",
+            "source": "FIW",
+            "target": "PZD"
+        },
+        {
+            "weight": "0.0341",
+            "source": "IYK",
+            "target": "FXG"
+        },
+        {
+            "weight": "0.0368",
+            "source": "IYK",
+            "target": "PBJ"
+        },
+        {
+            "weight": "0.0354",
+            "source": "PBD",
+            "target": "GEX"
+        },
+        {
+            "weight": "0.0376",
+            "source": "PBD",
+            "target": "ICLN"
+        },
+        {
+            "weight": "0.0448",
+            "source": "PBD",
+            "target": "PBW"
+        },
+        {
+            "weight": "0.0462",
+            "source": "PBD",
+            "target": "PIO"
+        },
+        {
+            "weight": "0.0424",
+            "source": "PBD",
+            "target": "PZD"
+        },
+        {
+            "weight": "0.0428",
+            "source": "PBD",
+            "target": "QCLN"
+        },
+        {
+            "weight": "0.0444",
+            "source": "PBD",
+            "target": "TAN"
+        },
+        {
+            "weight": "0.0423",
+            "source": "PHO",
+            "target": "PIO"
+        },
+        {
+            "weight": "0.0451",
+            "source": "PHO",
+            "target": "PZD"
+        },
+        {
+            "weight": "0.0438",
+            "source": "PZD",
+            "target": "GEX"
+        },
+        {
+            "weight": "0.0457",
+            "source": "CLY",
+            "target": "CORP"
+        },
+        {
+            "weight": "0.0397",
+            "source": "COP",
+            "target": "FRAK"
+        },
+        {
+            "weight": "0.0455",
+            "source": "COP",
+            "target": "GASL"
+        },
+        {
+            "weight": "0.0351",
+            "source": "COP",
+            "target": "IEO"
+        },
+        {
+            "weight": "0.0403",
+            "source": "COP",
+            "target": "IXC"
+        },
+        {
+            "weight": "0.0382",
+            "source": "COP",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0408",
+            "source": "COP",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0260",
+            "source": "FRAK",
+            "target": "GASL"
+        },
+        {
+            "weight": "0.0194",
+            "source": "FRAK",
+            "target": "IEO"
+        },
+        {
+            "weight": "0.0305",
+            "source": "FRAK",
+            "target": "IXC"
+        },
+        {
+            "weight": "0.0198",
+            "source": "FRAK",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0444",
+            "source": "FRAK",
+            "target": "USO"
+        },
+        {
+            "weight": "0.0187",
+            "source": "FRAK",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0293",
+            "source": "GASL",
+            "target": "IEO"
+        },
+        {
+            "weight": "0.0399",
+            "source": "GASL",
+            "target": "IXC"
+        },
+        {
+            "weight": "0.0272",
+            "source": "GASL",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0241",
+            "source": "GASL",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0283",
+            "source": "IEO",
+            "target": "IXC"
+        },
+        {
+            "weight": "0.0163",
+            "source": "IEO",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0172",
+            "source": "IEO",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0258",
+            "source": "IXC",
+            "target": "RYE"
+        },
+        {
+            "weight": "0.0410",
+            "source": "IXC",
+            "target": "XOM"
+        },
+        {
+            "weight": "0.0337",
+            "source": "IXC",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0466",
+            "source": "RYE",
+            "target": "USO"
+        },
+        {
+            "weight": "0.0191",
+            "source": "RYE",
+            "target": "XOP"
+        },
+        {
+            "weight": "0.0460",
+            "source": "XOP",
+            "target": "USO"
+        },
+        {
+            "weight": "0.0280",
+            "source": "CORN",
+            "target": "JJG"
+        },
+        {
+            "weight": "0.0456",
+            "source": "JJG",
+            "target": "SOYB"
+        },
+        {
+            "weight": "0.0428",
+            "source": "JJG",
+            "target": "WEAT"
+        },
+        {
+            "weight": "0.0098",
+            "source": "DGAZ",
+            "target": "KOLD"
+        },
+        {
+            "weight": "0.0230",
+            "source": "DGLD",
+            "target": "DGZ"
+        },
+        {
+            "weight": "0.0458",
+            "source": "DGLD",
+            "target": "DSLV"
+        },
+        {
+            "weight": "0.0234",
+            "source": "DGLD",
+            "target": "DZZ"
+        },
+        {
+            "weight": "0.0076",
+            "source": "DGLD",
+            "target": "GLL"
+        },
+        {
+            "weight": "0.0445",
+            "source": "DGLD",
+            "target": "JDST"
+        },
+        {
+            "weight": "0.0452",
+            "source": "DGLD",
+            "target": "ZSL"
+        },
+        {
+            "weight": "0.0312",
+            "source": "DGZ",
+            "target": "DZZ"
+        },
+        {
+            "weight": "0.0231",
+            "source": "DGZ",
+            "target": "GLL"
+        },
+        {
+            "weight": "0.0464",
+            "source": "DSLV",
+            "target": "GLL"
+        },
+        {
+            "weight": "0.0088",
+            "source": "DSLV",
+            "target": "ZSL"
+        },
+        {
+            "weight": "0.0237",
+            "source": "DZZ",
+            "target": "GLL"
+        },
+        {
+            "weight": "0.0444",
+            "source": "GLL",
+            "target": "JDST"
+        },
+        {
+            "weight": "0.0454",
+            "source": "GLL",
+            "target": "ZSL"
+        },
+        {
+            "weight": "0.0248",
+            "source": "DGP",
+            "target": "GLD"
+        },
+        {
+            "weight": "0.0252",
+            "source": "DGP",
+            "target": "UGL"
+        },
+        {
+            "weight": "0.0251",
+            "source": "DGP",
+            "target": "UGLD"
+        },
+        {
+            "weight": "0.0444",
+            "source": "GLD",
+            "target": "JNUG"
+        },
+        {
+            "weight": "0.0452",
+            "source": "GLD",
+            "target": "SLV"
+        },
+        {
+            "weight": "0.0064",
+            "source": "GLD",
+            "target": "UGL"
+        },
+        {
+            "weight": "0.0063",
+            "source": "GLD",
+            "target": "UGLD"
+        },
+        {
+            "weight": "0.0458",
+            "source": "GLD",
+            "target": "USLV"
+        },
+        {
+            "weight": "0.0446",
+            "source": "UGL",
+            "target": "JNUG"
+        },
+        {
+            "weight": "0.0452",
+            "source": "UGL",
+            "target": "SLV"
+        },
+        {
+            "weight": "0.0080",
+            "source": "UGL",
+            "target": "UGLD"
+        },
+        {
+            "weight": "0.0458",
+            "source": "UGL",
+            "target": "USLV"
+        },
+        {
+            "weight": "0.0443",
+            "source": "UGLD",
+            "target": "JNUG"
+        },
+        {
+            "weight": "0.0450",
+            "source": "UGLD",
+            "target": "SLV"
+        },
+        {
+            "weight": "0.0453",
+            "source": "UGLD",
+            "target": "USLV"
+        },
+        {
+            "weight": "0.0211",
+            "source": "DNO",
+            "target": "DTO"
+        },
+        {
+            "weight": "0.0340",
+            "source": "DNO",
+            "target": "SCO"
+        },
+        {
+            "weight": "0.0372",
+            "source": "DTO",
+            "target": "SCO"
+        },
+        {
+            "weight": "0.0269",
+            "source": "USO",
+            "target": "OIL"
+        },
+        {
+            "weight": "0.0331",
+            "source": "USO",
+            "target": "UCO"
+        },
+        {
+            "weight": "0.0313",
+            "source": "FXG",
+            "target": "PBJ"
+        },
+        {
+            "weight": "0.0428",
+            "source": "GEX",
+            "target": "ICLN"
+        },
+        {
+            "weight": "0.0442",
+            "source": "GEX",
+            "target": "PBW"
+        },
+        {
+            "weight": "0.0382",
+            "source": "GEX",
+            "target": "QCLN"
+        },
+        {
+            "weight": "0.0464",
+            "source": "GEX",
+            "target": "TAN"
+        },
+        {
+            "weight": "0.0420",
+            "source": "ICLN",
+            "target": "TAN"
+        },
+        {
+            "weight": "0.0310",
+            "source": "PBW",
+            "target": "QCLN"
+        },
+        {
+            "weight": "0.0392",
+            "source": "PBW",
+            "target": "TAN"
+        },
+        {
+            "weight": "0.0411",
+            "source": "QCLN",
+            "target": "TAN"
+        },
+        {
+            "weight": "0.0330",
+            "source": "SLV",
+            "target": "SLVO"
+        },
+        {
+            "weight": "0.0060",
+            "source": "SLV",
+            "target": "USLV"
+        },
+        {
+            "weight": "0.0321",
+            "source": "USLV",
+            "target": "SLVO"
+        },
+        {
+            "weight": "0.0414",
+            "source": "OIL",
+            "target": "UCO"
+        },
+        {
+            "weight": "0.0409",
+            "source": "TVIX",
+            "target": "TVIZ"
+        },
+        {
+            "weight": "0.0052",
+            "source": "TVIX",
+            "target": "UVXY"
+        },
+        {
+            "weight": "0.0408",
+            "source": "TVIZ",
+            "target": "UVXY"
+        }
+    ]
+}
