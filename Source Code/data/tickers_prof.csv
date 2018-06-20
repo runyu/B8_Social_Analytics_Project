@@ -1,0 +1,181 @@
+index,industry,name,ticker
+0,Consumer Goods,Apple Inc.,AAPL
+1,,,AFQ
+2,Trading--Inverse Commodities,DB Agriculture Double Short ETN,AGA
+3,Trading--Leveraged Equity,Credit Suisse X-Links MP2xLvgAlrnMLP ETN,AMJL
+4,Energy Limited Partnership,Alerian MLP ETF,AMLP
+5,Energy Limited Partnership,UBS ETRACS Alerian MLP ETN Series B,AMUB
+6,Energy Limited Partnership,InfraCap MLP ETF,AMZA
+7,AU Optronics Corp.,AU Optronics Corp.,AUO
+8,Multicurrency,iPath GEMS Asia 8 ETN,AYT
+9,Services,Booz Allen Hamilton Holding Corporation,BAH
+10,Services,"Best Buy Co., Inc.",BBY
+11,Trading--Leveraged Commodities,DB Base Metals Double Long ETN,BDD
+12,Industrial Goods,General Cable Corporation,BGC
+13,N/A,Bank of Montreal BMO ELK ETN,BMLP
+14,Trading--Leveraged Commodities,ProShares Ultra Bloomberg Natural Gas,BOIL
+15,Trading--Leveraged Commodities,ProShares Ultra Bloomberg Natural Gas,BOIL
+16,Trading--Inverse Commodities,DB Base Metals Double Short ETN,BOM
+17,Trading--Inverse Commodities,DB Base Metals Short ETN,BOS
+18,Commodities Agriculture,iPath Pure Beta Coffee ETN,CAFE
+19,Services,CBS Corporation,CBS
+20,Multicurrency,WisdomTree Emerging Currency Strat ETF,CEW
+21,Miscellaneous Sector,Guggenheim S&P Global Water ETF,CGW
+22,Commodities Agriculture,iPath Pure Beta Cocoa ETN,CHOC
+23,Corporate Bond,iShares 10+ Year Credit Bond ETF,CLY
+24,,,CMB
+25,China Region,Xtrackers MSCI All China Equity ETF,CN
+26,Single Currency,Market Vectors Chinese Renminbi/USD ETN,CNY
+27,Commodities Broad Basket,Direxion Auspice Broad Cmdty Strat ETF,COM
+28,ConocoPhillips,ConocoPhillips,COP
+29,Commodities Agriculture,Teucrium Corn ETF,CORN
+30,Corporate Bond,PIMCO Investment Grade Corporate Bd ETF,CORP
+31,Trading--Miscellaneous,ProShares UltraShort Australian Dollar,CROC
+32,Technology,"Cisco Systems, Inc.",CSCO
+33,Single Currency,WisdomTree Chinese Yuan Strategy ETF,CYB
+34,Trading--Leveraged Commodities,DB Agriculture Double Long ETN,DAG
+35,Services,"Delta Air Lines, Inc.",DAL
+36,Multicurrency,Citigroup ETNs lnkd VS Dly 4X Lng USDAUD,DAUD
+37,N/A,Credit Suisse AG (Nassau Branch) Ltd.,DBRT
+38,Ducommun Incorporated,Ducommun Incorporated,DCO
+39,,,DD
+40,Trading--Inverse Equity,ProShares Short Oil & Gas,DDG
+41,Trading--Inverse Commodities,DB Commodity Short ETN,DDP
+42,Trading--Inverse Commodities,DB Commodity Double Short ETN,DEE
+43,Trading--Inverse Commodities,VelocityShares 3x Inv Natural Gas ETN,DGAZ
+44,Trading--Inverse Commodities,VelocityShares 3x Inverse Gold ETN,DGLD
+45,Trading--Leveraged Commodities,DB Gold Double Long ETN,DGP
+46,Trading--Inverse Commodities,DB Gold Short ETN,DGZ
+47,Trading--Inverse Commodities,United States Short Oil,DNO
+48,Trading--Inverse Commodities,VelocityShares 3x Inverse Silver ETN,DSLV
+49,Trading--Inverse Commodities,DB Crude Oil Double Short ETN,DTO
+50,Trading--Inverse Commodities,VelocityShares 3x Invrs Crude Oil ETNNew,DWT
+51,Trading--Inverse Commodities,VelocityShares 3x Inverse Crude Oil ETN,DWTI
+52,Trading--Leveraged Commodities,DB Commodity Double Long ETN,DYY
+53,Trading--Inverse Commodities,DB Gold Double Short ETN,DZZ
+54,Miscellaneous Sector,First Trust Global Wind Energy ETF,FAN
+55,,,FAX
+56,Miscellaneous Sector,First Trust Water ETF,FIW
+57,Equity Energy,VanEck Vectors Unconvnt Oil & Gas ETF,FRAK
+58,Consumer Defensive,First Trust Nasdaq Food & Beverage ETF,FTXG
+59,Single Currency,CurrencyShares Australian Dollar ETF,FXA
+60,Single Currency,CurrencyShares Chinese Renminbi ETF,FXCH
+61,Consumer Defensive,First Trust Cnsmr Staples AlphaDEX ETF,FXG
+62,Single Currency,CurrencyShares Singapore Dollar ETF,FXSG
+63,Trading--Leveraged Equity,Direxion Daily Nat Gas Rltd Bull 3X ETF,GASL
+64,Miscellaneous Sector,VanEck Vectors Global Alt Energy ETF,GEX
+65,Commodities Precious Metals,SPDR Gold Shares,GLD
+66,Trading--Inverse Commodities,ProShares UltraShort Gold,GLL
+67,Miscellaneous Sector,First Trust NASDAQ Cln EdgeStGidIfsETF,GRID
+68,Commodities Agriculture,ELEMENTS MLCX Grains TR ETN,GRU
+69,Trading--Leveraged Equity,Direxion Dly S&P Oil&Gs Ex&Prd Bl 3X ETF,GUSH
+70,High Yield Bond,PIMCO 0-5 Year High Yield Corp Bd ETF,HYS
+71,Miscellaneous Sector,iShares Global Clean Energy ETF,ICLN
+72,Equity Energy,iShares US Oil & Gas Explor & Prod ETF,IEO
+73,Energy Limited Partnership,iPath S&P MLP ETN,IMLP
+74,Technology,Intel Corporation,INTC
+75,Equity Energy,iShares Global Energy ETF,IXC
+76,Consumer Defensive,iShares US Consumer Goods ETF,IYK
+77,Trading--Inverse Equity,Direxion Daily Jr Gld Mnrs Bear 3X ETF,JDST
+78,Multicurrency,iPath GEMS ETN,JEM
+79,Miscellaneous Sector,US Global Jets ETF,JETS
+80,Commodities Agriculture,iPath Bloomberg Grains SubTR ETN,JJG
+81,Trading--Leveraged Equity,Direxion Daily Jr Gld Mnrs Bull 3X ETF,JNUG
+82,Commodities Agriculture,iPath Bloomberg Coffee SubTR ETN,JO
+83,Financial,JPMorgan Chase & Co.,JPM
+84,Services,"Nordstrom, Inc.",JWN
+85,Miscellaneous Sector,VanEck Vectors Coal ETF,KOL
+86,Trading--Inverse Commodities,ProShares UltraShort Bloomberg Natrl Gas,KOLD
+87,,,LST
+88,,,MCA
+89,Services,McDonald's Corporation,MCD
+90,Basic Materials,"McDermott International, Inc.",MDR
+91,,,MFG
+92,Energy Limited Partnership,UBS ETRACS Alerian MLPInfrs ETN SerB,MLPB
+93,Energy Limited Partnership,C-Tracks ETN Bsd on Perf of M/H MLP Fdmt,MLPC
+94,N/A,"C-Tracks ETNs on the Miller/Howard MLP Fundamental Index, Series B",MLPE
+95,Energy Limited Partnership,UBS ETRACS Alerian Natural Gas MLP ETN,MLPG
+96,Energy Limited Partnership,Credit Suisse S&P MLP ETN,MLPO
+97,Energy Limited Partnership,Global X MLP & Energy Infrastructure ETF,MLPX
+98,N/A,Morgan Stanley Cushing MLP High Income Index ETN,MLPY
+99,Trading--Leveraged Equity,UBS ETRACS 2x M Lvg S&P MLP ETN SerB,MLPZ
+100,Natural Resources,SPDR S&P North American Natural Res ETF,NANR
+101,,,NAZ
+102,,,NFJ
+103,Commodities Agriculture,iPath Bloomberg Cocoa SubTR ETN,NIB
+104,Consumer Goods,"NIKE, Inc.",NKE
+105,Miscellaneous Sector,VanEck Vectors Uranium+Nuclear Engy ETF,NLR
+106,Commodities Energy,iPath S&P GSCI Crude Oil TR ETN,OIL
+107,Trading--Inverse Commodities,ProShares UltraPro 3x Shrt Crude Oil ETF,OILD
+108,Trading--Leveraged Commodities,ProShares UltraPro 3x Crude Oil ETF,OILU
+109,Consumer Defensive,The Organics ETF,ORG
+110,,,PANW
+111,Miscellaneous Sector,PowerShares Global Clean Energy ETF,PBD
+112,Consumer Defensive,PowerShares Dynamic Food & Beverage ETF,PBJ
+113,Miscellaneous Sector,PowerShares WilderHill Clean Energy ETF,PBW
+114,Miscellaneous Sector,PowerShares Water Resources ETF,PHO
+115,Miscellaneous Sector,PowerShares Global Water ETF,PIO
+116,Energy Limited Partnership,Cushing 30 MLP ETN,PPLN
+117,Miscellaneous Sector,PowerShares WilderHill Prog Engy ETF,PUW
+118,Miscellaneous Sector,PowerShares Cleantech ETF,PZD
+119,Miscellaneous Sector,First Trust NASDAQ Cln Edge GrnEngyETF,QCLN
+120,Technology,"Red Hat, Inc.",RHT
+121,Basic Materials,Rio Tinto plc,RIO
+122,Rexnord Corporation,Rexnord Corporation,RXN
+123,Equity Energy,Guggenheim S&P 500 Equal Wt Energy ETF,RYE
+124,"Safety, Income & Growth Inc.","Safety, Income & Growth Inc.",SAFE
+125,,,SAI
+126,"The Boston Beer Company, Inc.","The Boston Beer Company, Inc.",SAM
+127,Trading--Inverse Commodities,ProShares UltraShort Bloomberg Crude Oil,SCO
+128,"SeaWorld Entertainment, Inc.","SeaWorld Entertainment, Inc.",SEAS
+129,,,SEND
+130,Commodities Agriculture,iPath Pure Beta Sugar ETN,SGAR
+131,Commodities Agriculture,iPath Bloomberg Sugar SubTR ETN,SGG
+132,Commodities Precious Metals,iShares Silver Trust,SLV
+133,Commodities Precious Metals,Credit Suisse X-Links Silver CovCall ETN,SLVO
+134,Natural Resources,Global X Fertilizers/Potash ETF,SOIL
+135,Commodities Agriculture,Teucrium Soybean ETF,SOYB
+136,Inflation-Protected Bond,PIMCO 1-5 Year US TIPS ETF,STPZ
+137,Trading--Inverse Equity,ProShares UltraShort Consumer Goods,SZK
+138,Trading--Inverse Commodities,DB Crude Oil Short ETN,SZO
+139,Miscellaneous Sector,Guggenheim Solar ETF,TAN
+140,Natural Resources,Tortoise Water,TBLU
+141,Inflation-Protected Bond,PIMCO Broad US TIPS ETF,TIPZ
+142,Financial,"The Travelers Companies, Inc.",TRV
+143,Short Government,PIMCO 1-3 Year US Treasury ETF,TUZ
+144,Volatility,VelocityShares Daily 2x VIX ST ETN,TVIX
+145,Volatility,VelocityShares Daily 2x VIX MT ETN,TVIZ
+146,,"Under Armour, Inc.",UAA
+147,Multicurrency,Citigroup ETNs lnkd VS Dly 4X Lng AUDUSD,UAUD
+148,Trading--Leveraged Equity,ProShares Ultra MSCI Brazil Capped,UBR
+149,N/A,Credit Suisse AG (Nassau Branch) Ltd.,UBRT
+150,Trading--Leveraged Commodities,ProShares Ultra Bloomberg Crude Oil,UCO
+151,Multicurrency,PowerShares DB US Dollar Bearish ETF,UDN
+152,Trading--Leveraged Commodities,VelocityShares 3x Long Natural Gas ETN,UGAZ
+153,Trading--Leveraged Equity,ProShares Ultra Consumer Goods,UGE
+154,Trading--Leveraged Commodities,ProShares Ultra Gold,UGL
+155,Trading--Leveraged Commodities,VelocityShares 3x Long Gold ETN,UGLD
+156,Unilever N.V.,Unilever N.V.,UN
+157,Commodities Energy,United States Natural Gas,UNG
+158,Trading--Leveraged Commodities,VelocityShares 3x Long Silver ETN,USLV
+159,Commodities Energy,United States Oil,USO
+160,Trading--Inverse Commodities,United States 3x Short Oil,USOD
+161,Trading--Leveraged Commodities,United States 3x Oil,USOU
+162,Volatility,ProShares Ultra VIX Short-Term Futures,UVXY
+163,Trading--Leveraged Commodities,VelocityShares 3x Lng Crude Oil ETN New,UWT
+164,Trading--Leveraged Commodities,VelocityShares 3x Long Crude Oil ETN,UWTI
+165,,,VIPS
+166,Commodities Agriculture,Teucrium Wheat ETF,WEAT
+167,Commodities Agriculture,iPath Pure Beta Grains ETN,WEET
+168,Services,Walmart Inc.,WMT
+169,Natural Resources,iShares Global Timber & Forestry ETF,WOOD
+170,Trading--Inverse Commodities,UBS ETRACS ProShares Dly 3x Invrs CrdETN,WTID
+171,Trading--Leveraged Commodities,UBS ETRACS ProShares Dly 3x Lng Crud ETN,WTIU
+172,Natural Resources,Summit Water Infras Multifactor ETF,WTRX
+173,Basic Materials,Exxon Mobil Corporation,XOM
+174,Equity Energy,SPDR S&P Oil & Gas Explor & Prodtn ETF,XOP
+175,Yelp Inc.,Yelp Inc.,YELP
+176,Technology,Yingli Green Energy Holding Company Limited,YGE
+177,Energy Limited Partnership,VanEck Vectors High Income MLP ETF,YMLP
+178,Services,China Southern Airlines Company Limited,ZNH
+179,Trading--Inverse Commodities,ProShares UltraShort Silver,ZSL

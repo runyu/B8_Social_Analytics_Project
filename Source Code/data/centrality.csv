@@ -1,0 +1,2179 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": 0,
+      "centrality": {
+        "name": "AAPL",
+        "eigenvector": 0.005842466667079812,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11401425178147269,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "centrality": {
+        "name": "AGA",
+        "eigenvector": 0.046313220215825464,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13284132841328414,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "centrality": {
+        "name": "AMLP",
+        "eigenvector": 0.006547824786512156,
+        "degree": 0.027777777777777776,
+        "closeness": 0.11566265060240964,
+        "betweenness": 0.06818181818181818
+      }
+    },
+    {
+      "id": 3,
+      "centrality": {
+        "name": "AMZA",
+        "eigenvector": 0.0018481614105800182,
+        "degree": 0.006944444444444444,
+        "closeness": 0.1037463976945245,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "centrality": {
+        "name": "AUO",
+        "eigenvector": 0.036666958902434266,
+        "degree": 0.006944444444444444,
+        "closeness": 0.142433234421365,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "centrality": {
+        "name": "AYT",
+        "eigenvector": 0.0006046130637572255,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10835214446952596,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "centrality": {
+        "name": "BAH",
+        "eigenvector": 0.013104203277101288,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10778443113772455,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "centrality": {
+        "name": "BBY",
+        "eigenvector": 0.038388860301311827,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11990008326394672,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 8,
+      "centrality": {
+        "name": "BDD",
+        "eigenvector": 0.0034314274660492386,
+        "degree": 0.006944444444444444,
+        "closeness": 0.1125879593432369,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "centrality": {
+        "name": "BGC",
+        "eigenvector": 0.004329646115757706,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11347517730496454,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 10,
+      "centrality": {
+        "name": "BOIL",
+        "eigenvector": 0.00056046877689935,
+        "degree": 0.013888888888888888,
+        "closeness": 0.09530112508272667,
+        "betweenness": 0.027583527583527584
+      }
+    },
+    {
+      "id": 11,
+      "centrality": {
+        "name": "BOM",
+        "eigenvector": 0.0012992511392889026,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10212765957446808,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 12,
+      "centrality": {
+        "name": "BOS",
+        "eigenvector": 0.00015496610485184447,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08561236623067776,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 13,
+      "centrality": {
+        "name": "CAFE",
+        "eigenvector": 0.001639793547128255,
+        "degree": 0.013888888888888888,
+        "closeness": 0.1119751166407465,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 14,
+      "centrality": {
+        "name": "CBS",
+        "eigenvector": 0.08001674125678673,
+        "degree": 0.006944444444444444,
+        "closeness": 0.15,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 15,
+      "centrality": {
+        "name": "CEW",
+        "eigenvector": 0.005501967379468297,
+        "degree": 0.020833333333333332,
+        "closeness": 0.13150684931506848,
+        "betweenness": 0.3291569541569542
+      }
+    },
+    {
+      "id": 16,
+      "centrality": {
+        "name": "CGW",
+        "eigenvector": 0.5350121572922643,
+        "degree": 0.0625,
+        "closeness": 0.18,
+        "betweenness": 0.64005439005439
+      }
+    },
+    {
+      "id": 17,
+      "centrality": {
+        "name": "CHOC",
+        "eigenvector": 7.772110435945156e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.09154481881754609,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 18,
+      "centrality": {
+        "name": "CLY",
+        "eigenvector": 3.99867814912909e-06,
+        "degree": 0.020833333333333332,
+        "closeness": 0.07531380753138076,
+        "betweenness": 0.04127816627816628
+      }
+    },
+    {
+      "id": 19,
+      "centrality": {
+        "name": "CMB",
+        "eigenvector": 0.0015130283738713389,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10315186246418338,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 20,
+      "centrality": {
+        "name": "CN",
+        "eigenvector": 0.03984102685424971,
+        "degree": 0.013888888888888888,
+        "closeness": 0.14271555996035679,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 21,
+      "centrality": {
+        "name": "CNY",
+        "eigenvector": 0.00023148253338785464,
+        "degree": 0.006944444444444444,
+        "closeness": 0.100418410041841,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 22,
+      "centrality": {
+        "name": "COM",
+        "eigenvector": 0.00046284121123151375,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10076976906927922,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 23,
+      "centrality": {
+        "name": "COP",
+        "eigenvector": 0.004837398172358389,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11510791366906475,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 24,
+      "centrality": {
+        "name": "CORN",
+        "eigenvector": 0.0005052871305215787,
+        "degree": 0.006944444444444444,
+        "closeness": 0.09344581440622972,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 25,
+      "centrality": {
+        "name": "CORP",
+        "eigenvector": 1.1286500310687566e-06,
+        "degree": 0.006944444444444444,
+        "closeness": 0.07007299270072993,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 26,
+      "centrality": {
+        "name": "CROC",
+        "eigenvector": 0.004603098390129255,
+        "degree": 0.020833333333333332,
+        "closeness": 0.11365430149960537,
+        "betweenness": 0.14306526806526806
+      }
+    },
+    {
+      "id": 27,
+      "centrality": {
+        "name": "CSCO",
+        "eigenvector": 0.12517186957875912,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13584905660377358,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 28,
+      "centrality": {
+        "name": "CYB",
+        "eigenvector": 0.0016873939633847204,
+        "degree": 0.013888888888888888,
+        "closeness": 0.11650485436893204,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 29,
+      "centrality": {
+        "name": "DAG",
+        "eigenvector": 0.0005490272097498264,
+        "degree": 0.013888888888888888,
+        "closeness": 0.0935672514619883,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 30,
+      "centrality": {
+        "name": "DAL",
+        "eigenvector": 0.06301331546685808,
+        "degree": 0.006944444444444444,
+        "closeness": 0.14784394250513347,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 31,
+      "centrality": {
+        "name": "DCO",
+        "eigenvector": 0.029678496398030135,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13126709206927986,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 32,
+      "centrality": {
+        "name": "DDG",
+        "eigenvector": 0.0016067152284123174,
+        "degree": 0.020833333333333332,
+        "closeness": 0.10344827586206896,
+        "betweenness": 0.11975524475524475
+      }
+    },
+    {
+      "id": 33,
+      "centrality": {
+        "name": "DDP",
+        "eigenvector": 5.4792704527895145e-06,
+        "degree": 0.006944444444444444,
+        "closeness": 0.07655502392344497,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 34,
+      "centrality": {
+        "name": "DEE",
+        "eigenvector": 7.772110435950767e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.09154481881754609,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 35,
+      "centrality": {
+        "name": "DGAZ",
+        "eigenvector": 1.6113263085436814e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.07399794450154162,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 36,
+      "centrality": {
+        "name": "DGLD",
+        "eigenvector": 0.03909679571023378,
+        "degree": 0.034722222222222224,
+        "closeness": 0.13994169096209913,
+        "betweenness": 0.2262043512043512
+      }
+    },
+    {
+      "id": 37,
+      "centrality": {
+        "name": "DGP",
+        "eigenvector": 2.518085221036867e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08643457382953182,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 38,
+      "centrality": {
+        "name": "DGZ",
+        "eigenvector": 0.011035296677123576,
+        "degree": 0.006944444444444444,
+        "closeness": 0.12286689419795221,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 39,
+      "centrality": {
+        "name": "DNO",
+        "eigenvector": 0.0005498496556250114,
+        "degree": 0.020833333333333332,
+        "closeness": 0.09442622950819672,
+        "betweenness": 0.0678904428904429
+      }
+    },
+    {
+      "id": 40,
+      "centrality": {
+        "name": "DSLV",
+        "eigenvector": 0.003782872578300576,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11171450737005431,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 41,
+      "centrality": {
+        "name": "DTO",
+        "eigenvector": 0.00018614105441603525,
+        "degree": 0.020833333333333332,
+        "closeness": 0.08664259927797834,
+        "betweenness": 0.04127816627816628
+      }
+    },
+    {
+      "id": 42,
+      "centrality": {
+        "name": "DYY",
+        "eigenvector": 6.329674964617818e-05,
+        "degree": 0.013888888888888888,
+        "closeness": 0.09016906700062617,
+        "betweenness": 0.027583527583527584
+      }
+    },
+    {
+      "id": 43,
+      "centrality": {
+        "name": "DZZ",
+        "eigenvector": 0.011035296677123574,
+        "degree": 0.006944444444444444,
+        "closeness": 0.12286689419795221,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 44,
+      "centrality": {
+        "name": "FAN",
+        "eigenvector": 0.1510102752498114,
+        "degree": 0.006944444444444444,
+        "closeness": 0.15270413573700956,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 45,
+      "centrality": {
+        "name": "FAX",
+        "eigenvector": 0.012601256968562975,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13333333333333333,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 46,
+      "centrality": {
+        "name": "FIW",
+        "eigenvector": 0.10514752295387696,
+        "degree": 0.027777777777777776,
+        "closeness": 0.1509433962264151,
+        "betweenness": 0.041375291375291376
+      }
+    },
+    {
+      "id": 47,
+      "centrality": {
+        "name": "FRAK",
+        "eigenvector": 0.0018289149461627882,
+        "degree": 0.013888888888888888,
+        "closeness": 0.10495626822157435,
+        "betweenness": 0.04108391608391608
+      }
+    },
+    {
+      "id": 48,
+      "centrality": {
+        "name": "FXA",
+        "eigenvector": 0.002142075027892694,
+        "degree": 0.027777777777777776,
+        "closeness": 0.12141652613827993,
+        "betweenness": 0.31012043512043513
+      }
+    },
+    {
+      "id": 49,
+      "centrality": {
+        "name": "FXCH",
+        "eigenvector": 0.0004762767039822502,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10442349528643945,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 50,
+      "centrality": {
+        "name": "FXG",
+        "eigenvector": 0.13827607285586055,
+        "degree": 0.013888888888888888,
+        "closeness": 0.1366223908918406,
+        "betweenness": 0.04108391608391608
+      }
+    },
+    {
+      "id": 51,
+      "centrality": {
+        "name": "FXSG",
+        "eigenvector": 0.0006624305429506642,
+        "degree": 0.013888888888888888,
+        "closeness": 0.10900832702498107,
+        "betweenness": 0.05439005439005439
+      }
+    },
+    {
+      "id": 52,
+      "centrality": {
+        "name": "GASL",
+        "eigenvector": 0.0018137871418493477,
+        "degree": 0.013888888888888888,
+        "closeness": 0.10495626822157435,
+        "betweenness": 0.04108391608391608
+      }
+    },
+    {
+      "id": 53,
+      "centrality": {
+        "name": "GEX",
+        "eigenvector": 0.042509425569514064,
+        "degree": 0.013888888888888888,
+        "closeness": 0.14501510574018128,
+        "betweenness": 0.11800699300699301
+      }
+    },
+    {
+      "id": 54,
+      "centrality": {
+        "name": "GLD",
+        "eigenvector": 8.921288330375265e-05,
+        "degree": 0.020833333333333332,
+        "closeness": 0.09455022980958634,
+        "betweenness": 0.16656954156954157
+      }
+    },
+    {
+      "id": 55,
+      "centrality": {
+        "name": "GLL",
+        "eigenvector": 0.011990564923253186,
+        "degree": 0.013888888888888888,
+        "closeness": 0.12307692307692308,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 56,
+      "centrality": {
+        "name": "GRID",
+        "eigenvector": 0.06301331546685812,
+        "degree": 0.006944444444444444,
+        "closeness": 0.14784394250513347,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 57,
+      "centrality": {
+        "name": "GRU",
+        "eigenvector": 0.0005052871305215726,
+        "degree": 0.006944444444444444,
+        "closeness": 0.09344581440622972,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 58,
+      "centrality": {
+        "name": "HYS",
+        "eigenvector": 0.036666958902434224,
+        "degree": 0.006944444444444444,
+        "closeness": 0.142433234421365,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 59,
+      "centrality": {
+        "name": "ICLN",
+        "eigenvector": 0.04464481416375355,
+        "degree": 0.020833333333333332,
+        "closeness": 0.1536819637139808,
+        "betweenness": 0.388014763014763
+      }
+    },
+    {
+      "id": 60,
+      "centrality": {
+        "name": "IEO",
+        "eigenvector": 0.017138349212288843,
+        "degree": 0.020833333333333332,
+        "closeness": 0.1299638989169675,
+        "betweenness": 0.13102175602175603
+      }
+    },
+    {
+      "id": 61,
+      "centrality": {
+        "name": "IMLP",
+        "eigenvector": 0.0020233087250281397,
+        "degree": 0.013888888888888888,
+        "closeness": 0.10404624277456648,
+        "betweenness": 0.027583527583527584
+      }
+    },
+    {
+      "id": 62,
+      "centrality": {
+        "name": "INTC",
+        "eigenvector": 0.005842466667079826,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11401425178147269,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 63,
+      "centrality": {
+        "name": "IXC",
+        "eigenvector": 0.1131281100219636,
+        "degree": 0.027777777777777776,
+        "closeness": 0.16216216216216217,
+        "betweenness": 0.40666278166278164
+      }
+    },
+    {
+      "id": 64,
+      "centrality": {
+        "name": "IYK",
+        "eigenvector": 0.4434696371810077,
+        "degree": 0.0625,
+        "closeness": 0.15703380588876772,
+        "betweenness": 0.17220279720279721
+      }
+    },
+    {
+      "id": 65,
+      "centrality": {
+        "name": "JDST",
+        "eigenvector": 0.003384406288308048,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10967250571210967,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 66,
+      "centrality": {
+        "name": "JEM",
+        "eigenvector": 0.04631322021582541,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13284132841328414,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 67,
+      "centrality": {
+        "name": "JJG",
+        "eigenvector": 0.0017901745911340094,
+        "degree": 0.034722222222222224,
+        "closeness": 0.10300429184549356,
+        "betweenness": 0.06837606837606838
+      }
+    },
+    {
+      "id": 68,
+      "centrality": {
+        "name": "JNUG",
+        "eigenvector": 9.660717340952468e-06,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08058198097369894,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 69,
+      "centrality": {
+        "name": "JO",
+        "eigenvector": 0.0053467600341917144,
+        "degree": 0.020833333333333332,
+        "closeness": 0.125764192139738,
+        "betweenness": 0.054778554778554776
+      }
+    },
+    {
+      "id": 70,
+      "centrality": {
+        "name": "JPM",
+        "eigenvector": 0.0910520379339103,
+        "degree": 0.013888888888888888,
+        "closeness": 0.1561822125813449,
+        "betweenness": 0.23067210567210567
+      }
+    },
+    {
+      "id": 71,
+      "centrality": {
+        "name": "JWN",
+        "eigenvector": 0.13600734739288461,
+        "degree": 0.013888888888888888,
+        "closeness": 0.13610586011342155,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 72,
+      "centrality": {
+        "name": "KOL",
+        "eigenvector": 0.03536249071397345,
+        "degree": 0.013888888888888888,
+        "closeness": 0.142433234421365,
+        "betweenness": 0.13014763014763014
+      }
+    },
+    {
+      "id": 73,
+      "centrality": {
+        "name": "KOLD",
+        "eigenvector": 5.7087450705660575e-05,
+        "degree": 0.013888888888888888,
+        "closeness": 0.07986688851913477,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 74,
+      "centrality": {
+        "name": "MCA",
+        "eigenvector": 1.2263513948981354e-06,
+        "degree": 0.013888888888888888,
+        "closeness": 0.07014125669751584,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 75,
+      "centrality": {
+        "name": "MCD",
+        "eigenvector": 0.1251718695787591,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13584905660377358,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 76,
+      "centrality": {
+        "name": "MDR",
+        "eigenvector": 0.014117374016057595,
+        "degree": 0.006944444444444444,
+        "closeness": 0.1276595744680851,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 77,
+      "centrality": {
+        "name": "MFG",
+        "eigenvector": 0.15101027524981137,
+        "degree": 0.006944444444444444,
+        "closeness": 0.15270413573700956,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 78,
+      "centrality": {
+        "name": "MLPC",
+        "eigenvector": 0.0006205269303152684,
+        "degree": 0.013888888888888888,
+        "closeness": 0.09442622950819672,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 79,
+      "centrality": {
+        "name": "MLPG",
+        "eigenvector": 0.00017514731444810545,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08633093525179857,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 80,
+      "centrality": {
+        "name": "MLPO",
+        "eigenvector": 0.00020484072505198663,
+        "degree": 0.013888888888888888,
+        "closeness": 0.09876543209876543,
+        "betweenness": 0.04108391608391608
+      }
+    },
+    {
+      "id": 81,
+      "centrality": {
+        "name": "MLPX",
+        "eigenvector": 0.01747856380050897,
+        "degree": 0.020833333333333332,
+        "closeness": 0.12949640287769784,
+        "betweenness": 0.10683760683760683
+      }
+    },
+    {
+      "id": 82,
+      "centrality": {
+        "name": "MLPY",
+        "eigenvector": 0.001848161410579971,
+        "degree": 0.006944444444444444,
+        "closeness": 0.1037463976945245,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 83,
+      "centrality": {
+        "name": "NAZ",
+        "eigenvector": 3.461447729649298e-07,
+        "degree": 0.006944444444444444,
+        "closeness": 0.06557377049180328,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 84,
+      "centrality": {
+        "name": "NFJ",
+        "eigenvector": 0.08001674125678675,
+        "degree": 0.006944444444444444,
+        "closeness": 0.15,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 85,
+      "centrality": {
+        "name": "NIB",
+        "eigenvector": 0.00027535699568588675,
+        "degree": 0.020833333333333332,
+        "closeness": 0.1006993006993007,
+        "betweenness": 0.02768065268065268
+      }
+    },
+    {
+      "id": 86,
+      "centrality": {
+        "name": "NKE",
+        "eigenvector": 0.13600734739288461,
+        "degree": 0.013888888888888888,
+        "closeness": 0.13610586011342155,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 87,
+      "centrality": {
+        "name": "NLR",
+        "eigenvector": 0.15101027524981128,
+        "degree": 0.006944444444444444,
+        "closeness": 0.15270413573700956,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 88,
+      "centrality": {
+        "name": "OIL",
+        "eigenvector": 0.00017332335765730142,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08706166868198308,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 89,
+      "centrality": {
+        "name": "PANW",
+        "eigenvector": 0.001791821416843748,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10256410256410256,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 90,
+      "centrality": {
+        "name": "PBD",
+        "eigenvector": 0.12990684740681327,
+        "degree": 0.048611111111111105,
+        "closeness": 0.16589861751152074,
+        "betweenness": 0.5295260295260296
+      }
+    },
+    {
+      "id": 91,
+      "centrality": {
+        "name": "PBJ",
+        "eigenvector": 0.046426695489961936,
+        "degree": 0.020833333333333332,
+        "closeness": 0.12070410729253982,
+        "betweenness": 0.02768065268065268
+      }
+    },
+    {
+      "id": 92,
+      "centrality": {
+        "name": "PBW",
+        "eigenvector": 0.00694982919573519,
+        "degree": 0.020833333333333332,
+        "closeness": 0.11437648927720413,
+        "betweenness": 0.02768065268065268
+      }
+    },
+    {
+      "id": 93,
+      "centrality": {
+        "name": "PHO",
+        "eigenvector": 0.2834901750127354,
+        "degree": 0.041666666666666664,
+        "closeness": 0.1762545899632803,
+        "betweenness": 0.6015928515928516
+      }
+    },
+    {
+      "id": 94,
+      "centrality": {
+        "name": "PIO",
+        "eigenvector": 0.16408244947458586,
+        "degree": 0.013888888888888888,
+        "closeness": 0.153028692879915,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 95,
+      "centrality": {
+        "name": "PUW",
+        "eigenvector": 0.015339441669592613,
+        "degree": 0.013888888888888888,
+        "closeness": 0.12788632326820604,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 96,
+      "centrality": {
+        "name": "PZD",
+        "eigenvector": 0.2232489795167356,
+        "degree": 0.027777777777777776,
+        "closeness": 0.17328519855595667,
+        "betweenness": 0.48921911421911424
+      }
+    },
+    {
+      "id": 97,
+      "centrality": {
+        "name": "QCLN",
+        "eigenvector": 0.02069919209333019,
+        "degree": 0.041666666666666664,
+        "closeness": 0.12857142857142856,
+        "betweenness": 0.108003108003108
+      }
+    },
+    {
+      "id": 98,
+      "centrality": {
+        "name": "RHT",
+        "eigenvector": 0.006348218623681171,
+        "degree": 0.013888888888888888,
+        "closeness": 0.11419508326724821,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 99,
+      "centrality": {
+        "name": "RIO",
+        "eigenvector": 0.012157155585379465,
+        "degree": 0.020833333333333332,
+        "closeness": 0.1267605633802817,
+        "betweenness": 0.11878399378399378
+      }
+    },
+    {
+      "id": 100,
+      "centrality": {
+        "name": "RXN",
+        "eigenvector": 0.02967849639803015,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13126709206927986,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 101,
+      "centrality": {
+        "name": "RYE",
+        "eigenvector": 0.05001624369691484,
+        "degree": 0.034722222222222224,
+        "closeness": 0.14619289340101524,
+        "betweenness": 0.28593628593628595
+      }
+    },
+    {
+      "id": 102,
+      "centrality": {
+        "name": "SAM",
+        "eigenvector": 0.029678496398030167,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13126709206927986,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 103,
+      "centrality": {
+        "name": "SCO",
+        "eigenvector": 0.0001551982449561455,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08633093525179857,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 104,
+      "centrality": {
+        "name": "SEAS",
+        "eigenvector": 0.1640824494745859,
+        "degree": 0.013888888888888888,
+        "closeness": 0.153028692879915,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 105,
+      "centrality": {
+        "name": "SGAR",
+        "eigenvector": 0.0004628412112314491,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10076976906927922,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 106,
+      "centrality": {
+        "name": "SGG",
+        "eigenvector": 0.0016397935471281699,
+        "degree": 0.013888888888888888,
+        "closeness": 0.1119751166407465,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 107,
+      "centrality": {
+        "name": "SLV",
+        "eigenvector": 1.0576248142639608e-05,
+        "degree": 0.013888888888888888,
+        "closeness": 0.08076275939427931,
+        "betweenness": 0.027583527583527584
+      }
+    },
+    {
+      "id": 108,
+      "centrality": {
+        "name": "SLVO",
+        "eigenvector": 9.155308016912707e-07,
+        "degree": 0.006944444444444444,
+        "closeness": 0.06966618287373004,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 109,
+      "centrality": {
+        "name": "SOIL",
+        "eigenvector": 0.046313220215825485,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13284132841328414,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 110,
+      "centrality": {
+        "name": "SOYB",
+        "eigenvector": 0.004277495506972114,
+        "degree": 0.020833333333333332,
+        "closeness": 0.11383399209486166,
+        "betweenness": 0.09372571872571872
+      }
+    },
+    {
+      "id": 111,
+      "centrality": {
+        "name": "STPZ",
+        "eigenvector": 3.622569423299241e-06,
+        "degree": 0.013888888888888888,
+        "closeness": 0.07515657620041753,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 112,
+      "centrality": {
+        "name": "SZK",
+        "eigenvector": 1.941242938905677e-05,
+        "degree": 0.013888888888888888,
+        "closeness": 0.08285385500575373,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 113,
+      "centrality": {
+        "name": "SZO",
+        "eigenvector": 5.253938902039539e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.07977839335180055,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 114,
+      "centrality": {
+        "name": "TAN",
+        "eigenvector": 0.0019616294797836194,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10271041369472182,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 115,
+      "centrality": {
+        "name": "TIPZ",
+        "eigenvector": 1.181185854023642e-05,
+        "degree": 0.020833333333333332,
+        "closeness": 0.08112676056338028,
+        "betweenness": 0.0811965811965812
+      }
+    },
+    {
+      "id": 116,
+      "centrality": {
+        "name": "TRV",
+        "eigenvector": 0.12517186957875917,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13584905660377358,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 117,
+      "centrality": {
+        "name": "TUZ",
+        "eigenvector": 1.022491168207101e-06,
+        "degree": 0.006944444444444444,
+        "closeness": 0.06993686255463817,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 118,
+      "centrality": {
+        "name": "TVIX",
+        "eigenvector": 0.00015226584416726022,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08602150537634409,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 119,
+      "centrality": {
+        "name": "TVIZ",
+        "eigenvector": 0.0001522658441672478,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08602150537634409,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 120,
+      "centrality": {
+        "name": "UAA",
+        "eigenvector": 0.03838886030131181,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11990008326394672,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 121,
+      "centrality": {
+        "name": "UBR",
+        "eigenvector": 0.015663373016800777,
+        "degree": 0.020833333333333332,
+        "closeness": 0.14257425742574256,
+        "betweenness": 0.3851010101010101
+      }
+    },
+    {
+      "id": 122,
+      "centrality": {
+        "name": "UCO",
+        "eigenvector": 0.00017332335765731004,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08706166868198308,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 123,
+      "centrality": {
+        "name": "UDN",
+        "eigenvector": 0.0008201161765877313,
+        "degree": 0.027777777777777776,
+        "closeness": 0.11154144074360961,
+        "betweenness": 0.23679098679098678
+      }
+    },
+    {
+      "id": 124,
+      "centrality": {
+        "name": "UGAZ",
+        "eigenvector": 0.00017188971972728848,
+        "degree": 0.013888888888888888,
+        "closeness": 0.08716707021791767,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 125,
+      "centrality": {
+        "name": "UGE",
+        "eigenvector": 0.12517186957875903,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13584905660377358,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 126,
+      "centrality": {
+        "name": "UGL",
+        "eigenvector": 0.0002566633855982129,
+        "degree": 0.013888888888888888,
+        "closeness": 0.10241820768136557,
+        "betweenness": 0.17676767676767677
+      }
+    },
+    {
+      "id": 127,
+      "centrality": {
+        "name": "UGLD",
+        "eigenvector": 3.422681812214817e-05,
+        "degree": 0.027777777777777776,
+        "closeness": 0.08759124087591241,
+        "betweenness": 0.1451048951048951
+      }
+    },
+    {
+      "id": 128,
+      "centrality": {
+        "name": "UN",
+        "eigenvector": 0.12517186957875906,
+        "degree": 0.006944444444444444,
+        "closeness": 0.13584905660377358,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 129,
+      "centrality": {
+        "name": "UNG",
+        "eigenvector": 4.851686739231059e-05,
+        "degree": 0.006944444444444444,
+        "closeness": 0.08022284122562674,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 130,
+      "centrality": {
+        "name": "USLV",
+        "eigenvector": 3.2436210613733203e-06,
+        "degree": 0.013888888888888888,
+        "closeness": 0.07484407484407485,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 131,
+      "centrality": {
+        "name": "USO",
+        "eigenvector": 0.000614064859732043,
+        "degree": 0.020833333333333332,
+        "closeness": 0.09530112508272667,
+        "betweenness": 0.02768065268065268
+      }
+    },
+    {
+      "id": 132,
+      "centrality": {
+        "name": "UVXY",
+        "eigenvector": 0.0005394604945595834,
+        "degree": 0.020833333333333332,
+        "closeness": 0.09405617243631613,
+        "betweenness": 0.02768065268065268
+      }
+    },
+    {
+      "id": 133,
+      "centrality": {
+        "name": "VIPS",
+        "eigenvector": 0.03666695890243426,
+        "degree": 0.006944444444444444,
+        "closeness": 0.142433234421365,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 134,
+      "centrality": {
+        "name": "WEAT",
+        "eigenvector": 0.0005052871305215545,
+        "degree": 0.006944444444444444,
+        "closeness": 0.09344581440622972,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 135,
+      "centrality": {
+        "name": "WEET",
+        "eigenvector": 0.0012073478426301186,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10227272727272728,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 136,
+      "centrality": {
+        "name": "WMT",
+        "eigenvector": 0.013104203277101325,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10778443113772455,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 137,
+      "centrality": {
+        "name": "WOOD",
+        "eigenvector": 0.16408244947458586,
+        "degree": 0.013888888888888888,
+        "closeness": 0.153028692879915,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 138,
+      "centrality": {
+        "name": "XOM",
+        "eigenvector": 0.03193106324792418,
+        "degree": 0.006944444444444444,
+        "closeness": 0.1396702230843841,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 139,
+      "centrality": {
+        "name": "XOP",
+        "eigenvector": 0.005865571901620552,
+        "degree": 0.020833333333333332,
+        "closeness": 0.11659919028340081,
+        "betweenness": 0.10722610722610723
+      }
+    },
+    {
+      "id": 140,
+      "centrality": {
+        "name": "YELP",
+        "eigenvector": 0.005842466667079817,
+        "degree": 0.006944444444444444,
+        "closeness": 0.11401425178147269,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 141,
+      "centrality": {
+        "name": "YGE",
+        "eigenvector": 0.00196162947978364,
+        "degree": 0.006944444444444444,
+        "closeness": 0.10271041369472182,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 142,
+      "centrality": {
+        "name": "YMLP",
+        "eigenvector": 0.005360486715292807,
+        "degree": 0.013888888888888888,
+        "closeness": 0.1149241819632881,
+        "betweenness": 0.013888888888888888
+      }
+    },
+    {
+      "id": 143,
+      "centrality": {
+        "name": "ZNH",
+        "eigenvector": 0.011245360221242106,
+        "degree": 0.006944444444444444,
+        "closeness": 0.125,
+        "betweenness": 0.0
+      }
+    },
+    {
+      "id": 144,
+      "centrality": {
+        "name": "ZSL",
+        "eigenvector": 0.013402285477132713,
+        "degree": 0.020833333333333332,
+        "closeness": 0.1256544502617801,
+        "betweenness": 0.16656954156954157
+      }
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0245,
+      "source": "AAPL",
+      "target": "QCLN"
+    },
+    {
+      "weight": 1.3686,
+      "source": "AGA",
+      "target": "SEAS"
+    },
+    {
+      "weight": 0.4622,
+      "source": "AMLP",
+      "target": "IMLP"
+    },
+    {
+      "weight": 0.4698,
+      "source": "AMLP",
+      "target": "AMZA"
+    },
+    {
+      "weight": 0.5043,
+      "source": "AMLP",
+      "target": "MLPX"
+    },
+    {
+      "weight": 0.649,
+      "source": "AMLP",
+      "target": "MLPY"
+    },
+    {
+      "weight": 1.1078,
+      "source": "AUO",
+      "target": "PBD"
+    },
+    {
+      "weight": 1.3424,
+      "source": "AYT",
+      "target": "FXA"
+    },
+    {
+      "weight": 1.103,
+      "source": "BAH",
+      "target": "PBJ"
+    },
+    {
+      "weight": 1.1234,
+      "source": "BBY",
+      "target": "JWN"
+    },
+    {
+      "weight": 1.2916,
+      "source": "BDD",
+      "target": "RIO"
+    },
+    {
+      "weight": 0.9957,
+      "source": "BGC",
+      "target": "PUW"
+    },
+    {
+      "weight": 0.1237,
+      "source": "BOIL",
+      "target": "UGAZ"
+    },
+    {
+      "weight": 1.2212,
+      "source": "BOIL",
+      "target": "GASL"
+    },
+    {
+      "weight": 1.3475,
+      "source": "BOM",
+      "target": "CROC"
+    },
+    {
+      "weight": 1.3261,
+      "source": "BOS",
+      "target": "DAG"
+    },
+    {
+      "weight": 0.5978,
+      "source": "CAFE",
+      "target": "JO"
+    },
+    {
+      "weight": 1.3503,
+      "source": "CAFE",
+      "target": "COM"
+    },
+    {
+      "weight": 1.0445,
+      "source": "CBS",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.8696,
+      "source": "CEW",
+      "target": "FXA"
+    },
+    {
+      "weight": 0.9097,
+      "source": "CEW",
+      "target": "UBR"
+    },
+    {
+      "weight": 1.2734,
+      "source": "CEW",
+      "target": "CYB"
+    },
+    {
+      "weight": 0.5312,
+      "source": "CGW",
+      "target": "PIO"
+    },
+    {
+      "weight": 0.6133,
+      "source": "CGW",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.6512,
+      "source": "CGW",
+      "target": "PZD"
+    },
+    {
+      "weight": 0.6665,
+      "source": "CGW",
+      "target": "FAN"
+    },
+    {
+      "weight": 0.6941,
+      "source": "CGW",
+      "target": "IYK"
+    },
+    {
+      "weight": 0.6941,
+      "source": "CGW",
+      "target": "WOOD"
+    },
+    {
+      "weight": 0.9706,
+      "source": "CGW",
+      "target": "NLR"
+    },
+    {
+      "weight": 1.058,
+      "source": "CGW",
+      "target": "MFG"
+    },
+    {
+      "weight": 1.1892,
+      "source": "CGW",
+      "target": "SEAS"
+    },
+    {
+      "weight": 0.8153,
+      "source": "CHOC",
+      "target": "NIB"
+    },
+    {
+      "weight": 0.6855,
+      "source": "CLY",
+      "target": "CORP"
+    },
+    {
+      "weight": 0.7559,
+      "source": "CLY",
+      "target": "TIPZ"
+    },
+    {
+      "weight": 1.155,
+      "source": "CLY",
+      "target": "MCA"
+    },
+    {
+      "weight": 1.3288,
+      "source": "CMB",
+      "target": "YMLP"
+    },
+    {
+      "weight": 0.9736,
+      "source": "CN",
+      "target": "ZNH"
+    },
+    {
+      "weight": 1.0258,
+      "source": "CN",
+      "target": "PBD"
+    },
+    {
+      "weight": 1.3124,
+      "source": "CNY",
+      "target": "UDN"
+    },
+    {
+      "weight": 0.5264,
+      "source": "COP",
+      "target": "IEO"
+    },
+    {
+      "weight": 0.4198,
+      "source": "CORN",
+      "target": "JJG"
+    },
+    {
+      "weight": 1.1318,
+      "source": "CROC",
+      "target": "ZSL"
+    },
+    {
+      "weight": 1.1482,
+      "source": "CROC",
+      "target": "DDG"
+    },
+    {
+      "weight": 0.9181,
+      "source": "CSCO",
+      "target": "IYK"
+    },
+    {
+      "weight": 1.3231,
+      "source": "CYB",
+      "target": "FXCH"
+    },
+    {
+      "weight": 1.0154,
+      "source": "DAG",
+      "target": "JJG"
+    },
+    {
+      "weight": 1.0165,
+      "source": "DAL",
+      "target": "PZD"
+    },
+    {
+      "weight": 1.1211,
+      "source": "DCO",
+      "target": "FIW"
+    },
+    {
+      "weight": 0.7853,
+      "source": "DDG",
+      "target": "DNO"
+    },
+    {
+      "weight": 1.0726,
+      "source": "DDG",
+      "target": "UVXY"
+    },
+    {
+      "weight": 1.3697,
+      "source": "DDP",
+      "target": "SZK"
+    },
+    {
+      "weight": 1.3675,
+      "source": "DEE",
+      "target": "NIB"
+    },
+    {
+      "weight": 0.1464,
+      "source": "DGAZ",
+      "target": "KOLD"
+    },
+    {
+      "weight": 0.1146,
+      "source": "DGLD",
+      "target": "GLL"
+    },
+    {
+      "weight": 0.3455,
+      "source": "DGLD",
+      "target": "DGZ"
+    },
+    {
+      "weight": 0.3517,
+      "source": "DGLD",
+      "target": "DZZ"
+    },
+    {
+      "weight": 0.6777,
+      "source": "DGLD",
+      "target": "ZSL"
+    },
+    {
+      "weight": 1.1276,
+      "source": "DGLD",
+      "target": "JPM"
+    },
+    {
+      "weight": 0.3718,
+      "source": "DGP",
+      "target": "GLD"
+    },
+    {
+      "weight": 0.316,
+      "source": "DNO",
+      "target": "DTO"
+    },
+    {
+      "weight": 0.5096,
+      "source": "DNO",
+      "target": "SCO"
+    },
+    {
+      "weight": 0.1324,
+      "source": "DSLV",
+      "target": "ZSL"
+    },
+    {
+      "weight": 0.7962,
+      "source": "DTO",
+      "target": "SZO"
+    },
+    {
+      "weight": 1.2858,
+      "source": "DTO",
+      "target": "KOLD"
+    },
+    {
+      "weight": 1.2536,
+      "source": "DYY",
+      "target": "MLPO"
+    },
+    {
+      "weight": 1.2738,
+      "source": "DYY",
+      "target": "SZK"
+    },
+    {
+      "weight": 1.1012,
+      "source": "FAX",
+      "target": "ICLN"
+    },
+    {
+      "weight": 0.4513,
+      "source": "FIW",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.8116,
+      "source": "FIW",
+      "target": "RXN"
+    },
+    {
+      "weight": 1.1754,
+      "source": "FIW",
+      "target": "SAM"
+    },
+    {
+      "weight": 0.2806,
+      "source": "FRAK",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.666,
+      "source": "FRAK",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0092,
+      "source": "FXA",
+      "target": "UDN"
+    },
+    {
+      "weight": 1.2601,
+      "source": "FXA",
+      "target": "FXSG"
+    },
+    {
+      "weight": 0.47,
+      "source": "FXG",
+      "target": "PBJ"
+    },
+    {
+      "weight": 0.5108,
+      "source": "FXG",
+      "target": "IYK"
+    },
+    {
+      "weight": 1.3092,
+      "source": "FXSG",
+      "target": "MLPO"
+    },
+    {
+      "weight": 0.362,
+      "source": "GASL",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.5315,
+      "source": "GEX",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.5732,
+      "source": "GEX",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.0947,
+      "source": "GLD",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.0967,
+      "source": "GLD",
+      "target": "UGL"
+    },
+    {
+      "weight": 0.6666,
+      "source": "GLL",
+      "target": "JDST"
+    },
+    {
+      "weight": 0.9785,
+      "source": "GRID",
+      "target": "PZD"
+    },
+    {
+      "weight": 0.8905,
+      "source": "GRU",
+      "target": "JJG"
+    },
+    {
+      "weight": 0.9046,
+      "source": "HYS",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.5633,
+      "source": "ICLN",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.9259,
+      "source": "ICLN",
+      "target": "UBR"
+    },
+    {
+      "weight": 0.2449,
+      "source": "IEO",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.2575,
+      "source": "IEO",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.5151,
+      "source": "IMLP",
+      "target": "MLPC"
+    },
+    {
+      "weight": 0.9401,
+      "source": "INTC",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.3876,
+      "source": "IXC",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6151,
+      "source": "IXC",
+      "target": "XOM"
+    },
+    {
+      "weight": 0.77,
+      "source": "IXC",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.7837,
+      "source": "IXC",
+      "target": "KOL"
+    },
+    {
+      "weight": 0.7628,
+      "source": "IYK",
+      "target": "UGE"
+    },
+    {
+      "weight": 0.8943,
+      "source": "IYK",
+      "target": "TRV"
+    },
+    {
+      "weight": 0.9291,
+      "source": "IYK",
+      "target": "UN"
+    },
+    {
+      "weight": 0.9554,
+      "source": "IYK",
+      "target": "NKE"
+    },
+    {
+      "weight": 0.9636,
+      "source": "IYK",
+      "target": "MCD"
+    },
+    {
+      "weight": 1.1574,
+      "source": "IYK",
+      "target": "JWN"
+    },
+    {
+      "weight": 1.2543,
+      "source": "JEM",
+      "target": "PIO"
+    },
+    {
+      "weight": 0.6426,
+      "source": "JJG",
+      "target": "WEAT"
+    },
+    {
+      "weight": 0.684,
+      "source": "JJG",
+      "target": "SOYB"
+    },
+    {
+      "weight": 0.6646,
+      "source": "JNUG",
+      "target": "UGLD"
+    },
+    {
+      "weight": 1.1757,
+      "source": "JO",
+      "target": "UBR"
+    },
+    {
+      "weight": 1.2133,
+      "source": "JO",
+      "target": "SGG"
+    },
+    {
+      "weight": 0.8402,
+      "source": "JPM",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.7821,
+      "source": "KOL",
+      "target": "RIO"
+    },
+    {
+      "weight": 1.1666,
+      "source": "MCA",
+      "target": "NAZ"
+    },
+    {
+      "weight": 0.8829,
+      "source": "MDR",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6835,
+      "source": "MLPC",
+      "target": "MLPG"
+    },
+    {
+      "weight": 0.5871,
+      "source": "MLPX",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6503,
+      "source": "MLPX",
+      "target": "YMLP"
+    },
+    {
+      "weight": 0.8666,
+      "source": "NFJ",
+      "target": "PHO"
+    },
+    {
+      "weight": 1.2636,
+      "source": "NIB",
+      "target": "UDN"
+    },
+    {
+      "weight": 1.0904,
+      "source": "NKE",
+      "target": "UAA"
+    },
+    {
+      "weight": 0.4038,
+      "source": "OIL",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0987,
+      "source": "PANW",
+      "target": "RHT"
+    },
+    {
+      "weight": 0.6367,
+      "source": "PBD",
+      "target": "PZD"
+    },
+    {
+      "weight": 1.176,
+      "source": "PBD",
+      "target": "VIPS"
+    },
+    {
+      "weight": 1.062,
+      "source": "PBJ",
+      "target": "WMT"
+    },
+    {
+      "weight": 0.4654,
+      "source": "PBW",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.588,
+      "source": "PBW",
+      "target": "TAN"
+    },
+    {
+      "weight": 1.1412,
+      "source": "PBW",
+      "target": "YGE"
+    },
+    {
+      "weight": 0.7477,
+      "source": "PUW",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.992,
+      "source": "QCLN",
+      "target": "RHT"
+    },
+    {
+      "weight": 1.1573,
+      "source": "QCLN",
+      "target": "YELP"
+    },
+    {
+      "weight": 1.2272,
+      "source": "RIO",
+      "target": "SOYB"
+    },
+    {
+      "weight": 0.9949,
+      "source": "SGAR",
+      "target": "SGG"
+    },
+    {
+      "weight": 0.0895,
+      "source": "SLV",
+      "target": "USLV"
+    },
+    {
+      "weight": 0.675,
+      "source": "SLV",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.4814,
+      "source": "SLVO",
+      "target": "USLV"
+    },
+    {
+      "weight": 0.9202,
+      "source": "SOIL",
+      "target": "WOOD"
+    },
+    {
+      "weight": 1.202,
+      "source": "SOYB",
+      "target": "WEET"
+    },
+    {
+      "weight": 0.7708,
+      "source": "STPZ",
+      "target": "TIPZ"
+    },
+    {
+      "weight": 1.0849,
+      "source": "STPZ",
+      "target": "TUZ"
+    },
+    {
+      "weight": 1.0999,
+      "source": "TIPZ",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.0775,
+      "source": "TVIX",
+      "target": "UVXY"
+    },
+    {
+      "weight": 0.6114,
+      "source": "TVIZ",
+      "target": "UVXY"
+    },
+    {
+      "weight": 0.4959,
+      "source": "UCO",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0886,
+      "source": "UDN",
+      "target": "UGL"
+    },
+    {
+      "weight": 0.106,
+      "source": "UGAZ",
+      "target": "UNG"
+    }
+  ]
+}

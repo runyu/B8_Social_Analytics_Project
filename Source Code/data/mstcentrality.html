@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link href="mst_style.css?adkfjdkjfdaf" rel="stylesheet">
+  <script src="//d3js.org/d3.v4.min.js"></script>
+  <script src="mst_centrality.js?akdjfkdjfkdj"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+  <title>MST & Centrality</title>
+</head>
+<body>
+<div class="container">
+  <div class="row"><div class="col-md-12"><h2>MST & Centrality</h2></div></div>
+  <div class="row">
+	<div class="col-md-10"><div id="controls"></div></div>
+	<div class="col-md-2"><a class="btn btn-link" href="index.html">Home</a></div>
+  </div>
+
+  <div id="layout">
+    <svg></svg>
+    <table></table>
+  </div>
+
+  <h5><a href="https://github.com/UsabilityEtc/d3-network-metrics-explorer">Source</a></h5>
+
+  <script>
+    d3.queue()
+      .defer(d3.json, "mst_centrality.json")
+      .defer(d3.json, "centrality-measures.json")
+      .await(createNetworkVisualization);
+  </script>
+</div>
+</body>
+</html>

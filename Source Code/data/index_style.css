@@ -1,0 +1,126 @@
+/*
+* multi-line comment
+*/
+/* 
+html, body {
+    height: 100%;
+}
+ */
+
+/* 
+html {
+    display: table;
+    margin: auto;
+}
+body{
+    font-family: arial; font-size: 80%; line-height: 1.2em; 
+    width: 70%; left-margin: 0; background: #eee; 
+    display: table-cell;
+    vertical-align: middle;
+
+}
+ */
+    html{
+        display: flex;
+        flex-flow: row nowrap;  
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        height:100%;
+        margin: 0;
+        padding: 0;
+        background:#eeeeee;
+    }
+    body {
+        margin: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+        /*recommend 1920 / 1080 max based on usage stats, use 100% to that point*/
+        width: 100%
+        max-width: 800px;
+        height: 100%;
+        max-height: 600px;
+        background:#fafafa;
+        -webkit-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    }
+p{ line-height: 1em; }
+h1, h2, h3, h4{
+    color: orange;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+h1{ font-size: 1.7em; }
+h2{ font-size: 1.5em; }
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover,
+a:active{ text-decoration: underline; }
+
+#page{ margin: 20px 50px 20px 50px; }
+
+/* or on different lines like below */
+#logo{
+	width: 50%;
+	margin-top: 5px;
+	font-family: georgia;
+	display: inline-block;
+}
+/* but try and be as concise as possible */
+#nav{
+	width: 100%;
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+	#nav ul{}
+		#nav ul li{
+			display: inline-block;
+			height: 62px;
+		}
+			#nav ul li a{
+				padding: 20px;
+				background: #663300;
+				color: white;
+			}
+			#nav ul li a:hover{
+				background-color: #ffb424;
+				box-shadow: 0px 1px 1px #666;
+			}
+			#nav ul li a:active{ background-color: #663300; }
+
+#content{
+	margin: 30px 0;
+	background: white;
+	padding: 20px;
+	clear: both;
+}
+#footer{
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 5px;
+}
+	#footer p{
+		text-align: left;
+		text-transform: uppercase;
+/* 		font-size: 80%; */
+		color: grey;
+		line-height:0px;
+	}
+
+/* multiple styles seperated by a , */
+#content,
+ul li a{ box-shadow: 0px 1px 1px #999; }
+
+
+h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 30px; font-weight: bold;  }
+
+.subheader { font-size: 26px; font-weight: 300; color: #663300; margin: 0 0 24px; }
+h2 { color: #7c795d; font-family: 'Open Sans', sans-serif; font-size: 20px; font-weight: 300;}
+
+
+p { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }

@@ -1,0 +1,1164 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "AAPL"
+    },
+    {
+      "id": "AGA"
+    },
+    {
+      "id": "AMLP"
+    },
+    {
+      "id": "AMZA"
+    },
+    {
+      "id": "AUO"
+    },
+    {
+      "id": "AYT"
+    },
+    {
+      "id": "BAH"
+    },
+    {
+      "id": "BBY"
+    },
+    {
+      "id": "BDD"
+    },
+    {
+      "id": "BGC"
+    },
+    {
+      "id": "BOIL"
+    },
+    {
+      "id": "BOM"
+    },
+    {
+      "id": "BOS"
+    },
+    {
+      "id": "CAFE"
+    },
+    {
+      "id": "CBS"
+    },
+    {
+      "id": "CEW"
+    },
+    {
+      "id": "CGW"
+    },
+    {
+      "id": "CHOC"
+    },
+    {
+      "id": "CLY"
+    },
+    {
+      "id": "CMB"
+    },
+    {
+      "id": "CN"
+    },
+    {
+      "id": "CNY"
+    },
+    {
+      "id": "COM"
+    },
+    {
+      "id": "COP"
+    },
+    {
+      "id": "CORN"
+    },
+    {
+      "id": "CORP"
+    },
+    {
+      "id": "CROC"
+    },
+    {
+      "id": "CSCO"
+    },
+    {
+      "id": "CYB"
+    },
+    {
+      "id": "DAG"
+    },
+    {
+      "id": "DAL"
+    },
+    {
+      "id": "DCO"
+    },
+    {
+      "id": "DDG"
+    },
+    {
+      "id": "DDP"
+    },
+    {
+      "id": "DEE"
+    },
+    {
+      "id": "DGAZ"
+    },
+    {
+      "id": "DGLD"
+    },
+    {
+      "id": "DGP"
+    },
+    {
+      "id": "DGZ"
+    },
+    {
+      "id": "DNO"
+    },
+    {
+      "id": "DSLV"
+    },
+    {
+      "id": "DTO"
+    },
+    {
+      "id": "DYY"
+    },
+    {
+      "id": "DZZ"
+    },
+    {
+      "id": "FAN"
+    },
+    {
+      "id": "FAX"
+    },
+    {
+      "id": "FIW"
+    },
+    {
+      "id": "FRAK"
+    },
+    {
+      "id": "FXA"
+    },
+    {
+      "id": "FXCH"
+    },
+    {
+      "id": "FXG"
+    },
+    {
+      "id": "FXSG"
+    },
+    {
+      "id": "GASL"
+    },
+    {
+      "id": "GEX"
+    },
+    {
+      "id": "GLD"
+    },
+    {
+      "id": "GLL"
+    },
+    {
+      "id": "GRID"
+    },
+    {
+      "id": "GRU"
+    },
+    {
+      "id": "HYS"
+    },
+    {
+      "id": "ICLN"
+    },
+    {
+      "id": "IEO"
+    },
+    {
+      "id": "IMLP"
+    },
+    {
+      "id": "INTC"
+    },
+    {
+      "id": "IXC"
+    },
+    {
+      "id": "IYK"
+    },
+    {
+      "id": "JDST"
+    },
+    {
+      "id": "JEM"
+    },
+    {
+      "id": "JJG"
+    },
+    {
+      "id": "JNUG"
+    },
+    {
+      "id": "JO"
+    },
+    {
+      "id": "JPM"
+    },
+    {
+      "id": "JWN"
+    },
+    {
+      "id": "KOL"
+    },
+    {
+      "id": "KOLD"
+    },
+    {
+      "id": "MCA"
+    },
+    {
+      "id": "MCD"
+    },
+    {
+      "id": "MDR"
+    },
+    {
+      "id": "MFG"
+    },
+    {
+      "id": "MLPC"
+    },
+    {
+      "id": "MLPG"
+    },
+    {
+      "id": "MLPO"
+    },
+    {
+      "id": "MLPX"
+    },
+    {
+      "id": "MLPY"
+    },
+    {
+      "id": "NAZ"
+    },
+    {
+      "id": "NFJ"
+    },
+    {
+      "id": "NIB"
+    },
+    {
+      "id": "NKE"
+    },
+    {
+      "id": "NLR"
+    },
+    {
+      "id": "OIL"
+    },
+    {
+      "id": "PANW"
+    },
+    {
+      "id": "PBD"
+    },
+    {
+      "id": "PBJ"
+    },
+    {
+      "id": "PBW"
+    },
+    {
+      "id": "PHO"
+    },
+    {
+      "id": "PIO"
+    },
+    {
+      "id": "PUW"
+    },
+    {
+      "id": "PZD"
+    },
+    {
+      "id": "QCLN"
+    },
+    {
+      "id": "RHT"
+    },
+    {
+      "id": "RIO"
+    },
+    {
+      "id": "RXN"
+    },
+    {
+      "id": "RYE"
+    },
+    {
+      "id": "SAM"
+    },
+    {
+      "id": "SCO"
+    },
+    {
+      "id": "SEAS"
+    },
+    {
+      "id": "SGAR"
+    },
+    {
+      "id": "SGG"
+    },
+    {
+      "id": "SLV"
+    },
+    {
+      "id": "SLVO"
+    },
+    {
+      "id": "SOIL"
+    },
+    {
+      "id": "SOYB"
+    },
+    {
+      "id": "STPZ"
+    },
+    {
+      "id": "SZK"
+    },
+    {
+      "id": "SZO"
+    },
+    {
+      "id": "TAN"
+    },
+    {
+      "id": "TIPZ"
+    },
+    {
+      "id": "TRV"
+    },
+    {
+      "id": "TUZ"
+    },
+    {
+      "id": "TVIX"
+    },
+    {
+      "id": "TVIZ"
+    },
+    {
+      "id": "UAA"
+    },
+    {
+      "id": "UBR"
+    },
+    {
+      "id": "UCO"
+    },
+    {
+      "id": "UDN"
+    },
+    {
+      "id": "UGAZ"
+    },
+    {
+      "id": "UGE"
+    },
+    {
+      "id": "UGL"
+    },
+    {
+      "id": "UGLD"
+    },
+    {
+      "id": "UN"
+    },
+    {
+      "id": "UNG"
+    },
+    {
+      "id": "USLV"
+    },
+    {
+      "id": "USO"
+    },
+    {
+      "id": "UVXY"
+    },
+    {
+      "id": "VIPS"
+    },
+    {
+      "id": "WEAT"
+    },
+    {
+      "id": "WEET"
+    },
+    {
+      "id": "WMT"
+    },
+    {
+      "id": "WOOD"
+    },
+    {
+      "id": "XOM"
+    },
+    {
+      "id": "XOP"
+    },
+    {
+      "id": "YELP"
+    },
+    {
+      "id": "YGE"
+    },
+    {
+      "id": "YMLP"
+    },
+    {
+      "id": "ZNH"
+    },
+    {
+      "id": "ZSL"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0245,
+      "source": "AAPL",
+      "target": "QCLN"
+    },
+    {
+      "weight": 1.3686,
+      "source": "AGA",
+      "target": "SEAS"
+    },
+    {
+      "weight": 0.4622,
+      "source": "AMLP",
+      "target": "IMLP"
+    },
+    {
+      "weight": 0.4698,
+      "source": "AMLP",
+      "target": "AMZA"
+    },
+    {
+      "weight": 0.5043,
+      "source": "AMLP",
+      "target": "MLPX"
+    },
+    {
+      "weight": 0.649,
+      "source": "AMLP",
+      "target": "MLPY"
+    },
+    {
+      "weight": 1.1078,
+      "source": "AUO",
+      "target": "PBD"
+    },
+    {
+      "weight": 1.3424,
+      "source": "AYT",
+      "target": "FXA"
+    },
+    {
+      "weight": 1.103,
+      "source": "BAH",
+      "target": "PBJ"
+    },
+    {
+      "weight": 1.1234,
+      "source": "BBY",
+      "target": "JWN"
+    },
+    {
+      "weight": 1.2916,
+      "source": "BDD",
+      "target": "RIO"
+    },
+    {
+      "weight": 0.9957,
+      "source": "BGC",
+      "target": "PUW"
+    },
+    {
+      "weight": 0.1237,
+      "source": "BOIL",
+      "target": "UGAZ"
+    },
+    {
+      "weight": 1.2212,
+      "source": "BOIL",
+      "target": "GASL"
+    },
+    {
+      "weight": 1.3475,
+      "source": "BOM",
+      "target": "CROC"
+    },
+    {
+      "weight": 1.3261,
+      "source": "BOS",
+      "target": "DAG"
+    },
+    {
+      "weight": 0.5978,
+      "source": "CAFE",
+      "target": "JO"
+    },
+    {
+      "weight": 1.3503,
+      "source": "CAFE",
+      "target": "COM"
+    },
+    {
+      "weight": 1.0445,
+      "source": "CBS",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.8696,
+      "source": "CEW",
+      "target": "FXA"
+    },
+    {
+      "weight": 0.9097,
+      "source": "CEW",
+      "target": "UBR"
+    },
+    {
+      "weight": 1.2734,
+      "source": "CEW",
+      "target": "CYB"
+    },
+    {
+      "weight": 0.5312,
+      "source": "CGW",
+      "target": "PIO"
+    },
+    {
+      "weight": 0.6133,
+      "source": "CGW",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.6512,
+      "source": "CGW",
+      "target": "PZD"
+    },
+    {
+      "weight": 0.6665,
+      "source": "CGW",
+      "target": "FAN"
+    },
+    {
+      "weight": 0.6941,
+      "source": "CGW",
+      "target": "IYK"
+    },
+    {
+      "weight": 0.6941,
+      "source": "CGW",
+      "target": "WOOD"
+    },
+    {
+      "weight": 0.9706,
+      "source": "CGW",
+      "target": "NLR"
+    },
+    {
+      "weight": 1.058,
+      "source": "CGW",
+      "target": "MFG"
+    },
+    {
+      "weight": 1.1892,
+      "source": "CGW",
+      "target": "SEAS"
+    },
+    {
+      "weight": 0.8153,
+      "source": "CHOC",
+      "target": "NIB"
+    },
+    {
+      "weight": 0.6855,
+      "source": "CLY",
+      "target": "CORP"
+    },
+    {
+      "weight": 0.7559,
+      "source": "CLY",
+      "target": "TIPZ"
+    },
+    {
+      "weight": 1.155,
+      "source": "CLY",
+      "target": "MCA"
+    },
+    {
+      "weight": 1.3288,
+      "source": "CMB",
+      "target": "YMLP"
+    },
+    {
+      "weight": 0.9736,
+      "source": "CN",
+      "target": "ZNH"
+    },
+    {
+      "weight": 1.0258,
+      "source": "CN",
+      "target": "PBD"
+    },
+    {
+      "weight": 1.3124,
+      "source": "CNY",
+      "target": "UDN"
+    },
+    {
+      "weight": 0.5264,
+      "source": "COP",
+      "target": "IEO"
+    },
+    {
+      "weight": 0.4198,
+      "source": "CORN",
+      "target": "JJG"
+    },
+    {
+      "weight": 1.1318,
+      "source": "CROC",
+      "target": "ZSL"
+    },
+    {
+      "weight": 1.1482,
+      "source": "CROC",
+      "target": "DDG"
+    },
+    {
+      "weight": 0.9181,
+      "source": "CSCO",
+      "target": "IYK"
+    },
+    {
+      "weight": 1.3231,
+      "source": "CYB",
+      "target": "FXCH"
+    },
+    {
+      "weight": 1.0154,
+      "source": "DAG",
+      "target": "JJG"
+    },
+    {
+      "weight": 1.0165,
+      "source": "DAL",
+      "target": "PZD"
+    },
+    {
+      "weight": 1.1211,
+      "source": "DCO",
+      "target": "FIW"
+    },
+    {
+      "weight": 0.7853,
+      "source": "DDG",
+      "target": "DNO"
+    },
+    {
+      "weight": 1.0726,
+      "source": "DDG",
+      "target": "UVXY"
+    },
+    {
+      "weight": 1.3697,
+      "source": "DDP",
+      "target": "SZK"
+    },
+    {
+      "weight": 1.3675,
+      "source": "DEE",
+      "target": "NIB"
+    },
+    {
+      "weight": 0.1464,
+      "source": "DGAZ",
+      "target": "KOLD"
+    },
+    {
+      "weight": 0.1146,
+      "source": "DGLD",
+      "target": "GLL"
+    },
+    {
+      "weight": 0.3455,
+      "source": "DGLD",
+      "target": "DGZ"
+    },
+    {
+      "weight": 0.3517,
+      "source": "DGLD",
+      "target": "DZZ"
+    },
+    {
+      "weight": 0.6777,
+      "source": "DGLD",
+      "target": "ZSL"
+    },
+    {
+      "weight": 1.1276,
+      "source": "DGLD",
+      "target": "JPM"
+    },
+    {
+      "weight": 0.3718,
+      "source": "DGP",
+      "target": "GLD"
+    },
+    {
+      "weight": 0.316,
+      "source": "DNO",
+      "target": "DTO"
+    },
+    {
+      "weight": 0.5096,
+      "source": "DNO",
+      "target": "SCO"
+    },
+    {
+      "weight": 0.1324,
+      "source": "DSLV",
+      "target": "ZSL"
+    },
+    {
+      "weight": 0.7962,
+      "source": "DTO",
+      "target": "SZO"
+    },
+    {
+      "weight": 1.2858,
+      "source": "DTO",
+      "target": "KOLD"
+    },
+    {
+      "weight": 1.2536,
+      "source": "DYY",
+      "target": "MLPO"
+    },
+    {
+      "weight": 1.2738,
+      "source": "DYY",
+      "target": "SZK"
+    },
+    {
+      "weight": 1.1012,
+      "source": "FAX",
+      "target": "ICLN"
+    },
+    {
+      "weight": 0.4513,
+      "source": "FIW",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.8116,
+      "source": "FIW",
+      "target": "RXN"
+    },
+    {
+      "weight": 1.1754,
+      "source": "FIW",
+      "target": "SAM"
+    },
+    {
+      "weight": 0.2806,
+      "source": "FRAK",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.666,
+      "source": "FRAK",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0092,
+      "source": "FXA",
+      "target": "UDN"
+    },
+    {
+      "weight": 1.2601,
+      "source": "FXA",
+      "target": "FXSG"
+    },
+    {
+      "weight": 0.47,
+      "source": "FXG",
+      "target": "PBJ"
+    },
+    {
+      "weight": 0.5108,
+      "source": "FXG",
+      "target": "IYK"
+    },
+    {
+      "weight": 1.3092,
+      "source": "FXSG",
+      "target": "MLPO"
+    },
+    {
+      "weight": 0.362,
+      "source": "GASL",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.5315,
+      "source": "GEX",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.5732,
+      "source": "GEX",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.0947,
+      "source": "GLD",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.0967,
+      "source": "GLD",
+      "target": "UGL"
+    },
+    {
+      "weight": 0.6666,
+      "source": "GLL",
+      "target": "JDST"
+    },
+    {
+      "weight": 0.9785,
+      "source": "GRID",
+      "target": "PZD"
+    },
+    {
+      "weight": 0.8905,
+      "source": "GRU",
+      "target": "JJG"
+    },
+    {
+      "weight": 0.9046,
+      "source": "HYS",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.5633,
+      "source": "ICLN",
+      "target": "PBD"
+    },
+    {
+      "weight": 0.9259,
+      "source": "ICLN",
+      "target": "UBR"
+    },
+    {
+      "weight": 0.2449,
+      "source": "IEO",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.2575,
+      "source": "IEO",
+      "target": "XOP"
+    },
+    {
+      "weight": 0.5151,
+      "source": "IMLP",
+      "target": "MLPC"
+    },
+    {
+      "weight": 0.9401,
+      "source": "INTC",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.3876,
+      "source": "IXC",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6151,
+      "source": "IXC",
+      "target": "XOM"
+    },
+    {
+      "weight": 0.77,
+      "source": "IXC",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.7837,
+      "source": "IXC",
+      "target": "KOL"
+    },
+    {
+      "weight": 0.7628,
+      "source": "IYK",
+      "target": "UGE"
+    },
+    {
+      "weight": 0.8943,
+      "source": "IYK",
+      "target": "TRV"
+    },
+    {
+      "weight": 0.9291,
+      "source": "IYK",
+      "target": "UN"
+    },
+    {
+      "weight": 0.9554,
+      "source": "IYK",
+      "target": "NKE"
+    },
+    {
+      "weight": 0.9636,
+      "source": "IYK",
+      "target": "MCD"
+    },
+    {
+      "weight": 1.1574,
+      "source": "IYK",
+      "target": "JWN"
+    },
+    {
+      "weight": 1.2543,
+      "source": "JEM",
+      "target": "PIO"
+    },
+    {
+      "weight": 0.6426,
+      "source": "JJG",
+      "target": "WEAT"
+    },
+    {
+      "weight": 0.684,
+      "source": "JJG",
+      "target": "SOYB"
+    },
+    {
+      "weight": 0.6646,
+      "source": "JNUG",
+      "target": "UGLD"
+    },
+    {
+      "weight": 1.1757,
+      "source": "JO",
+      "target": "UBR"
+    },
+    {
+      "weight": 1.2133,
+      "source": "JO",
+      "target": "SGG"
+    },
+    {
+      "weight": 0.8402,
+      "source": "JPM",
+      "target": "PHO"
+    },
+    {
+      "weight": 0.7821,
+      "source": "KOL",
+      "target": "RIO"
+    },
+    {
+      "weight": 1.1666,
+      "source": "MCA",
+      "target": "NAZ"
+    },
+    {
+      "weight": 0.8829,
+      "source": "MDR",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6835,
+      "source": "MLPC",
+      "target": "MLPG"
+    },
+    {
+      "weight": 0.5871,
+      "source": "MLPX",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.6503,
+      "source": "MLPX",
+      "target": "YMLP"
+    },
+    {
+      "weight": 0.8666,
+      "source": "NFJ",
+      "target": "PHO"
+    },
+    {
+      "weight": 1.2636,
+      "source": "NIB",
+      "target": "UDN"
+    },
+    {
+      "weight": 1.0904,
+      "source": "NKE",
+      "target": "UAA"
+    },
+    {
+      "weight": 0.4038,
+      "source": "OIL",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0987,
+      "source": "PANW",
+      "target": "RHT"
+    },
+    {
+      "weight": 0.6367,
+      "source": "PBD",
+      "target": "PZD"
+    },
+    {
+      "weight": 1.176,
+      "source": "PBD",
+      "target": "VIPS"
+    },
+    {
+      "weight": 1.062,
+      "source": "PBJ",
+      "target": "WMT"
+    },
+    {
+      "weight": 0.4654,
+      "source": "PBW",
+      "target": "QCLN"
+    },
+    {
+      "weight": 0.588,
+      "source": "PBW",
+      "target": "TAN"
+    },
+    {
+      "weight": 1.1412,
+      "source": "PBW",
+      "target": "YGE"
+    },
+    {
+      "weight": 0.7477,
+      "source": "PUW",
+      "target": "RYE"
+    },
+    {
+      "weight": 0.992,
+      "source": "QCLN",
+      "target": "RHT"
+    },
+    {
+      "weight": 1.1573,
+      "source": "QCLN",
+      "target": "YELP"
+    },
+    {
+      "weight": 1.2272,
+      "source": "RIO",
+      "target": "SOYB"
+    },
+    {
+      "weight": 0.9949,
+      "source": "SGAR",
+      "target": "SGG"
+    },
+    {
+      "weight": 0.0895,
+      "source": "SLV",
+      "target": "USLV"
+    },
+    {
+      "weight": 0.675,
+      "source": "SLV",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.4814,
+      "source": "SLVO",
+      "target": "USLV"
+    },
+    {
+      "weight": 0.9202,
+      "source": "SOIL",
+      "target": "WOOD"
+    },
+    {
+      "weight": 1.202,
+      "source": "SOYB",
+      "target": "WEET"
+    },
+    {
+      "weight": 0.7708,
+      "source": "STPZ",
+      "target": "TIPZ"
+    },
+    {
+      "weight": 1.0849,
+      "source": "STPZ",
+      "target": "TUZ"
+    },
+    {
+      "weight": 1.0999,
+      "source": "TIPZ",
+      "target": "UGLD"
+    },
+    {
+      "weight": 0.0775,
+      "source": "TVIX",
+      "target": "UVXY"
+    },
+    {
+      "weight": 0.6114,
+      "source": "TVIZ",
+      "target": "UVXY"
+    },
+    {
+      "weight": 0.4959,
+      "source": "UCO",
+      "target": "USO"
+    },
+    {
+      "weight": 1.0886,
+      "source": "UDN",
+      "target": "UGL"
+    },
+    {
+      "weight": 0.106,
+      "source": "UGAZ",
+      "target": "UNG"
+    }
+  ]
+}
